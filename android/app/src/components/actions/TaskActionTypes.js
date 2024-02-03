@@ -1,0 +1,1 @@
+        export const TOGGLE_COURSE = 'TOGGLE_COURSE';
